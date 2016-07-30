@@ -1,1 +1,2 @@
-未完成
+#未完成
+mvn exec:java -Dexec.mainClass="pkg04.Test04" 
